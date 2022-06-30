@@ -50,7 +50,7 @@ Editor.builtinPlugins = [
 	List,
 	MediaEmbed,
 	Paragraph,
-	SourceEditing,
+	// SourceEditing,
 	Table,
 	TableToolbar,
 	TextTransformation
