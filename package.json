@@ -37,5 +37,8 @@
   },
   "scripts": {
     "build": "webpack --mode production"
+  },
+  "dependencies": {
+    "@ckeditor/ckeditor5-alignment": "^34.2.0"
   }
 }
